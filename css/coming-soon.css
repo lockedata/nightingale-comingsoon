@@ -212,3 +212,7 @@ video {
 .input {
   font-weight: 300 !important;
 }
+
+a {
+  color: #ffba49 !important;
+}
