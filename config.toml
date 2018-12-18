@@ -1,0 +1,25 @@
+baseURL = "https://nightingalehq.ai"
+languageCode = "en-us"
+title = "Nightingale HQ"
+theme = "hugo-serif-theme"
+
+[params]
+#google_analytics_id=""
+cta_title = "Accelerate your use of data science today"
+cta_url = "/"
+cta_button = "Sign up"
+
+[[menu.main]]
+	name = "Adopt Data Science"
+	url = "/benefits/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/team/"
+    weight = 2
+
+[[menu.main]]
+    name = "Sign up"
+    url = "#"
+    weight = 4
