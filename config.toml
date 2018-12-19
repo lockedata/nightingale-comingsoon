@@ -16,7 +16,7 @@ cta_button = "Sign up"
 
 [[menu.main]]
     name = "About"
-    url = "/team/"
+    url = "/team"
     weight = 2
 
 [[menu.main]]
